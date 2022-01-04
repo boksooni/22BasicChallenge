@@ -5,3 +5,6 @@
 # Web Basic Challenge 
 ### [WEB_220103] DAY1  
 html, css, javascript란 무엇인지, 웹을 구성할 때 각각 어떤 역할을 하고 서로 어떠한 관계가 있는지 알아보기, html 개념 찾아보기  
+
+### [WEB_220104] DAY2  
+div/span/p 태그 구글링해보고 실습하기    
